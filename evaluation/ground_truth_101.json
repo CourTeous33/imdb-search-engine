@@ -1,0 +1,1620 @@
+[{
+  "query": "action movies 2000s",
+  "rankings": [
+    {"rank": 1, "movie": "The Dark Knight", "id": 2},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "The Dark Knight Rises", "id": 63},
+    {"rank": 4, "movie": "Gladiator", "id": 39},
+    {"rank": 5, "movie": "Casino Royale", "id": 0},
+    {"rank": 6, "movie": "The Prestige", "id": 36},
+    {"rank": 7, "movie": "The Departed", "id": 37},
+    {"rank": 8, "movie": "Django Unchained", "id": 62},
+    {"rank": 9, "movie": "Inglourious Basterds", "id": 93},
+    {"rank": 10, "movie": "Snatch", "id": 96}
+  ]
+},
+{
+  "query": "prison escape films",
+  "rankings": [
+    {"rank": 1, "movie": "The Shawshank Redemption", "id": 0},
+    {"rank": 2, "movie": "The Green Mile", "id": 25},
+    {"rank": 3, "movie": "The Great Escape", "id": 0},
+    {"rank": 4, "movie": "Miracle in cell NO.7", "id": 91},
+    {"rank": 5, "movie": "Escape from Alcatraz", "id": 0},
+    {"rank": 6, "movie": "The Pianist", "id": 38},
+    {"rank": 7, "movie": "Paths of Glory", "id": 80},
+    {"rank": 8, "movie": "The Lives of Others", "id": 67},
+    {"rank": 9, "movie": "Oldeuboi", "id": 68},
+    {"rank": 10, "movie": "Capharnaüm", "id": 53}
+  ]
+},
+{
+  "query": "mob crime drama",
+  "rankings": [
+    {"rank": 1, "movie": "The Godfather", "id": 1},
+    {"rank": 2, "movie": "The Godfather: Part II", "id": 3},
+    {"rank": 3, "movie": "Goodfellas", "id": 15},
+    {"rank": 4, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 5, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 6, "movie": "The Departed", "id": 37},
+    {"rank": 7, "movie": "Léon", "id": 42},
+    {"rank": 8, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 9, "movie": "Snatch", "id": 96},
+    {"rank": 10, "movie": "American Gangster", "id": 0}
+  ]
+},
+{
+  "query": "war movies 1990s",
+  "rankings": [
+    {"rank": 1, "movie": "Saving Private Ryan", "id": 24},
+    {"rank": 2, "movie": "Schindler's List", "id": 7},
+    {"rank": 3, "movie": "La vita è bella", "id": 26},
+    {"rank": 4, "movie": "Forrest Gump", "id": 11},
+    {"rank": 5, "movie": "The Pianist", "id": 38},
+    {"rank": 6, "movie": "The English Patient", "id": 0},
+    {"rank": 7, "movie": "Braveheart", "id": 0},
+    {"rank": 8, "movie": "The Thin Red Line", "id": 0},
+    {"rank": 9, "movie": "Underground", "id": 0},
+    {"rank": 10, "movie": "Three Kings", "id": 0}
+  ]
+},
+{
+  "query": "psychological thriller",
+  "rankings": [
+    {"rank": 1, "movie": "Fight Club", "id": 9},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 4, "movie": "Se7en", "id": 27},
+    {"rank": 5, "movie": "Memento", "id": 69},
+    {"rank": 6, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 7, "movie": "The Prestige", "id": 36},
+    {"rank": 8, "movie": "Shutter Island", "id": 0},
+    {"rank": 9, "movie": "Black Swan", "id": 0},
+    {"rank": 10, "movie": "Requiem for a Dream", "id": 97}
+  ]
+},
+{
+  "query": "time travel science fiction",
+  "rankings": [
+    {"rank": 1, "movie": "Inception", "id": 8},
+    {"rank": 2, "movie": "Interstellar", "id": 21},
+    {"rank": 3, "movie": "The Matrix", "id": 14},
+    {"rank": 4, "movie": "Back to the Future", "id": 47},
+    {"rank": 5, "movie": "Terminator 2: Judgment Day", "id": 44},
+    {"rank": 6, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 7, "movie": "The Prestige", "id": 36},
+    {"rank": 8, "movie": "Kimi no na wa.", "id": 56},
+    {"rank": 9, "movie": "Edge of Tomorrow", "id": 0},
+    {"rank": 10, "movie": "Source Code", "id": 0}
+  ]
+},
+{
+  "query": "samurai films",
+  "rankings": [
+    {"rank": 1, "movie": "Shichinin no samurai", "id": 31},
+    {"rank": 2, "movie": "Seppuku", "id": 30},
+    {"rank": 3, "movie": "Tengoku to jigoku", "id": 77},
+    {"rank": 4, "movie": "Mononoke-hime", "id": 70},
+    {"rank": 5, "movie": "Ran", "id": 0},
+    {"rank": 6, "movie": "Yojimbo", "id": 0},
+    {"rank": 7, "movie": "The Last Samurai", "id": 0},
+    {"rank": 8, "movie": "13 Assassins", "id": 0},
+    {"rank": 9, "movie": "Twilight Samurai", "id": 0},
+    {"rank": 10, "movie": "Sword of Doom", "id": 0}
+  ]
+},
+{
+  "query": "courtroom drama",
+  "rankings": [
+    {"rank": 1, "movie": "12 Angry Men", "id": 4},
+    {"rank": 2, "movie": "Witness for the Prosecution", "id": 79},
+    {"rank": 3, "movie": "The Green Mile", "id": 25},
+    {"rank": 4, "movie": "A Few Good Men", "id": 0},
+    {"rank": 5, "movie": "Philadelphia", "id": 0},
+    {"rank": 6, "movie": "Judgment at Nuremberg", "id": 0},
+    {"rank": 7, "movie": "The Verdict", "id": 0},
+    {"rank": 8, "movie": "To Kill a Mockingbird", "id": 0},
+    {"rank": 9, "movie": "Primal Fear", "id": 0},
+    {"rank": 10, "movie": "In the Name of the Father", "id": 0}
+  ]
+},
+{
+  "query": "dystopian future",
+  "rankings": [
+    {"rank": 1, "movie": "The Matrix", "id": 14},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "Interstellar", "id": 21},
+    {"rank": 4, "movie": "WALL·E", "id": 66},
+    {"rank": 5, "movie": "Terminator 2: Judgment Day", "id": 44},
+    {"rank": 6, "movie": "V for Vendetta", "id": 0},
+    {"rank": 7, "movie": "Children of Men", "id": 0},
+    {"rank": 8, "movie": "Blade Runner", "id": 0},
+    {"rank": 9, "movie": "Mad Max: Fury Road", "id": 0},
+    {"rank": 10, "movie": "Snowpiercer", "id": 0}
+  ]
+},
+{
+  "query": "superhero origin story",
+  "rankings": [
+    {"rank": 1, "movie": "The Dark Knight", "id": 2},
+    {"rank": 2, "movie": "Spider-Man: Into the Spider-Verse", "id": 58},
+    {"rank": 3, "movie": "Joker", "id": 33},
+    {"rank": 4, "movie": "The Dark Knight Rises", "id": 63},
+    {"rank": 5, "movie": "Avengers: Infinity War", "id": 60},
+    {"rank": 6, "movie": "Avengers: Endgame", "id": 59},
+    {"rank": 7, "movie": "Batman Begins", "id": 0},
+    {"rank": 8, "movie": "Iron Man", "id": 0},
+    {"rank": 9, "movie": "Black Panther", "id": 0},
+    {"rank": 10, "movie": "Wonder Woman", "id": 0}
+  ]
+},
+{
+  "query": "revenge thriller",
+  "rankings": [
+    {"rank": 1, "movie": "Oldeuboi", "id": 68},
+    {"rank": 2, "movie": "The Count of Monte Cristo", "id": 0},
+    {"rank": 3, "movie": "Django Unchained", "id": 62},
+    {"rank": 4, "movie": "V for Vendetta", "id": 0},
+    {"rank": 5, "movie": "Memento", "id": 69},
+    {"rank": 6, "movie": "Kill Bill: Vol. 1", "id": 0},
+    {"rank": 7, "movie": "Gladiator", "id": 39},
+    {"rank": 8, "movie": "The Prestige", "id": 36},
+    {"rank": 9, "movie": "Inglourious Basterds", "id": 93},
+    {"rank": 10, "movie": "Léon", "id": 42}
+  ]
+},
+{
+  "query": "gangster movies 1970s",
+  "rankings": [
+    {"rank": 1, "movie": "The Godfather", "id": 1},
+    {"rank": 2, "movie": "The Godfather: Part II", "id": 3},
+    {"rank": 3, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 4, "movie": "Apocalypse Now", "id": 74},
+    {"rank": 5, "movie": "Chinatown", "id": 0},
+    {"rank": 6, "movie": "Mean Streets", "id": 0},
+    {"rank": 7, "movie": "Dog Day Afternoon", "id": 0},
+    {"rank": 8, "movie": "The French Connection", "id": 0},
+    {"rank": 9, "movie": "Serpico", "id": 0},
+    {"rank": 10, "movie": "Get Carter", "id": 0}
+  ]
+},
+{
+  "query": "sci-fi space exploration",
+  "rankings": [
+    {"rank": 1, "movie": "Interstellar", "id": 21},
+    {"rank": 2, "movie": "2001: A Space Odyssey", "id": 0},
+    {"rank": 3, "movie": "Alien", "id": 75},
+    {"rank": 4, "movie": "WALL·E", "id": 66},
+    {"rank": 5, "movie": "The Matrix", "id": 14},
+    {"rank": 6, "movie": "Inception", "id": 8},
+    {"rank": 7, "movie": "Star Wars", "id": 29},
+    {"rank": 8, "movie": "Star Wars: Episode V - The Empire Strikes Back", "id": 16},
+    {"rank": 9, "movie": "Contact", "id": 0},
+    {"rank": 10, "movie": "Solaris", "id": 0}
+  ]
+},
+{
+  "query": "murder mystery",
+  "rankings": [
+    {"rank": 1, "movie": "Se7en", "id": 27},
+    {"rank": 2, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 3, "movie": "Memento", "id": 69},
+    {"rank": 4, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 5, "movie": "Rear Window", "id": 81},
+    {"rank": 6, "movie": "Andhadhun", "id": 86},
+    {"rank": 7, "movie": "Drishyam", "id": 87},
+    {"rank": 8, "movie": "L.A. Confidential", "id": 0},
+    {"rank": 9, "movie": "Mystic River", "id": 0},
+    {"rank": 10, "movie": "Gone Girl", "id": 0}
+  ]
+},
+{
+  "query": "AI robots",
+  "rankings": [
+    {"rank": 1, "movie": "The Matrix", "id": 14},
+    {"rank": 2, "movie": "WALL·E", "id": 66},
+    {"rank": 3, "movie": "Terminator 2: Judgment Day", "id": 44},
+    {"rank": 4, "movie": "2001: A Space Odyssey", "id": 0},
+    {"rank": 5, "movie": "Blade Runner", "id": 0},
+    {"rank": 6, "movie": "I, Robot", "id": 0},
+    {"rank": 7, "movie": "Ex Machina", "id": 0},
+    {"rank": 8, "movie": "A.I. Artificial Intelligence", "id": 0},
+    {"rank": 9, "movie": "RoboCop", "id": 0},
+    {"rank": 10, "movie": "Westworld", "id": 0}
+  ]
+},
+{
+  "query": "martial arts action",
+  "rankings": [
+    {"rank": 1, "movie": "Crouching Tiger, Hidden Dragon", "id": 0},
+    {"rank": 2, "movie": "Enter the Dragon", "id": 0},
+    {"rank": 3, "movie": "Hero", "id": 0},
+    {"rank": 4, "movie": "The Matrix", "id": 14},
+    {"rank": 5, "movie": "Kill Bill: Vol. 1", "id": 0},
+    {"rank": 6, "movie": "Ip Man", "id": 0},
+    {"rank": 7, "movie": "Fist of Fury", "id": 0},
+    {"rank": 8, "movie": "The Raid: Redemption", "id": 0},
+    {"rank": 9, "movie": "Drunken Master", "id": 0},
+    {"rank": 10, "movie": "Police Story", "id": 0}
+  ]
+},
+{
+  "query": "prison drama",
+  "rankings": [
+    {"rank": 1, "movie": "The Shawshank Redemption", "id": 0},
+    {"rank": 2, "movie": "The Green Mile", "id": 25},
+    {"rank": 3, "movie": "Miracle in cell NO.7", "id": 91},
+    {"rank": 4, "movie": "A Prophet", "id": 0},
+    {"rank": 5, "movie": "Escape from Alcatraz", "id": 0},
+    {"rank": 6, "movie": "Cool Hand Luke", "id": 0},
+    {"rank": 7, "movie": "The Great Escape", "id": 0},
+    {"rank": 8, "movie": "Papillon", "id": 0},
+    {"rank": 9, "movie": "Brubaker", "id": 0},
+    {"rank": 10, "movie": "In the Name of the Father", "id": 0}
+  ]
+},
+{
+  "query": "heist movies",
+  "rankings": [
+    {"rank": 1, "movie": "Inception", "id": 8},
+    {"rank": 2, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 3, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 4, "movie": "Snatch", "id": 96},
+    {"rank": 5, "movie": "Heat", "id": 0},
+    {"rank": 6, "movie": "Ocean's Eleven", "id": 0},
+    {"rank": 7, "movie": "Reservoir Dogs", "id": 0},
+    {"rank": 8, "movie": "The Italian Job", "id": 0},
+    {"rank": 9, "movie": "Inside Man", "id": 0},
+    {"rank": 10, "movie": "The Town", "id": 0}
+  ]
+},
+{
+  "query": "war biography",
+  "rankings": [
+    {"rank": 1, "movie": "Schindler's List", "id": 7},
+    {"rank": 2, "movie": "The Pianist", "id": 38},
+    {"rank": 3, "movie": "Lawrence of Arabia", "id": 0},
+    {"rank": 4, "movie": "Apocalypse Now", "id": 74},
+    {"rank": 5, "movie": "Paths of Glory", "id": 80},
+    {"rank": 6, "movie": "Bridge on the River Kwai", "id": 0},
+    {"rank": 7, "movie": "The Last Emperor", "id": 0},
+    {"rank": 8, "movie": "Patton", "id": 0},
+    {"rank": 9, "movie": "The Imitation Game", "id": 0},
+    {"rank": 10, "movie": "Downfall", "id": 0}
+  ]
+},
+{
+  "query": "fantasy adventure",
+  "rankings": [
+    {"rank": 1, "movie": "The Lord of the Rings: The Return of the King", "id": 5},
+    {"rank": 2, "movie": "The Lord of the Rings: The Fellowship of the Ring", "id": 10},
+    {"rank": 3, "movie": "The Lord of the Rings: The Two Towers", "id": 13},
+    {"rank": 4, "movie": "Princess Mononoke", "id": 70},
+    {"rank": 5, "movie": "Spirited Away", "id": 23},
+    {"rank": 6, "movie": "Pan's Labyrinth", "id": 0},
+    {"rank": 7, "movie": "The Princess Bride", "id": 0},
+    {"rank": 8, "movie": "The NeverEnding Story", "id": 0},
+    {"rank": 9, "movie": "Stardust", "id": 0},
+    {"rank": 10, "movie": "Coraline", "id": 0}
+  ]
+},
+{
+  "query": "crime noir",
+  "rankings": [
+    {"rank": 1, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 2, "movie": "Se7en", "id": 27},
+    {"rank": 3, "movie": "Rear Window", "id": 81},
+    {"rank": 4, "movie": "Sunset Blvd.", "id": 82},
+    {"rank": 5, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 6, "movie": "Memento", "id": 69},
+    {"rank": 7, "movie": "Double Indemnity", "id": 0},
+    {"rank": 8, "movie": "The Big Sleep", "id": 0},
+    {"rank": 9, "movie": "Touch of Evil", "id": 0},
+    {"rank": 10, "movie": "The Third Man", "id": 0}
+  ]
+},
+{
+  "query": "holocaust survival",
+  "rankings": [
+    {"rank": 1, "movie": "Schindler's List", "id": 7},
+    {"rank": 2, "movie": "The Pianist", "id": 38},
+    {"rank": 3, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 4, "movie": "The Boy in the Striped Pajamas", "id": 0},
+    {"rank": 5, "movie": "Son of Saul", "id": 0},
+    {"rank": 6, "movie": "The Grey Zone", "id": 0},
+    {"rank": 7, "movie": "Sophie's Choice", "id": 0},
+    {"rank": 8, "movie": "The Counterfeiters", "id": 0},
+    {"rank": 9, "movie": "Defiance", "id": 0},
+    {"rank": 10, "movie": "Europa Europa", "id": 0}
+  ]
+},
+{
+  "query": "cyberpunk thriller",
+  "rankings": [
+    {"rank": 1, "movie": "The Matrix", "id": 14},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "Blade Runner", "id": 0},
+    {"rank": 4, "movie": "Ghost in the Shell", "id": 0},
+    {"rank": 5, "movie": "Total Recall", "id": 0},
+    {"rank": 6, "movie": "Minority Report", "id": 0},
+    {"rank": 7, "movie": "Terminator 2: Judgment Day", "id": 44},
+    {"rank": 8, "movie": "Akira", "id": 0},
+    {"rank": 9, "movie": "Strange Days", "id": 0},
+    {"rank": 10, "movie": "Johnny Mnemonic", "id": 0}
+  ]
+},
+{
+  "query": "coming of age drama",
+  "rankings": [
+    {"rank": 1, "movie": "Stand By Me", "id": 0},
+    {"rank": 2, "movie": "Dead Poets Society", "id": 0},
+    {"rank": 3, "movie": "Good Will Hunting", "id": 99},
+    {"rank": 4, "movie": "Taare Zameen Par", "id": 65},
+    {"rank": 5, "movie": "American Beauty", "id": 98},
+    {"rank": 6, "movie": "Almost Famous", "id": 0},
+    {"rank": 7, "movie": "The Breakfast Club", "id": 0},
+    {"rank": 8, "movie": "Boyhood", "id": 0},
+    {"rank": 9, "movie": "Cinema Paradiso", "id": 45},
+    {"rank": 10, "movie": "The 400 Blows", "id": 0}
+  ]
+},
+{
+  "query": "mafia family saga",
+  "rankings": [
+    {"rank": 1, "movie": "The Godfather", "id": 1},
+    {"rank": 2, "movie": "The Godfather: Part II", "id": 3},
+    {"rank": 3, "movie": "Goodfellas", "id": 15},
+    {"rank": 4, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 5, "movie": "The Departed", "id": 37},
+    {"rank": 6, "movie": "Casino", "id": 0},
+    {"rank": 7, "movie": "Mean Streets", "id": 0},
+    {"rank": 8, "movie": "Miller's Crossing", "id": 0},
+    {"rank": 9, "movie": "Road to Perdition", "id": 0},
+    {"rank": 10, "movie": "A Bronx Tale", "id": 0}
+  ]
+},
+{
+  "query": "historical epic",
+  "rankings": [
+    {"rank": 1, "movie": "Gladiator", "id": 39},
+    {"rank": 2, "movie": "Braveheart", "id": 0},
+    {"rank": 3, "movie": "Lawrence of Arabia", "id": 0},
+    {"rank": 4, "movie": "Ben-Hur", "id": 0},
+    {"rank": 5, "movie": "The Last Emperor", "id": 0},
+    {"rank": 6, "movie": "Apocalypse Now", "id": 74},
+    {"rank": 7, "movie": "Schindler's List", "id": 7},
+    {"rank": 8, "movie": "The Pianist", "id": 38},
+    {"rank": 9, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 10, "movie": "Spartacus", "id": 0}
+  ]
+},
+{
+  "query": "police corruption",
+  "rankings": [
+    {"rank": 1, "movie": "The Departed", "id": 37},
+    {"rank": 2, "movie": "L.A. Confidential", "id": 0},
+    {"rank": 3, "movie": "Serpico", "id": 0},
+    {"rank": 4, "movie": "Training Day", "id": 0},
+    {"rank": 5, "movie": "Internal Affairs", "id": 0},
+    {"rank": 6, "movie": "Prince of the City", "id": 0},
+    {"rank": 7, "movie": "Copland", "id": 0},
+    {"rank": 8, "movie": "American Gangster", "id": 0},
+    {"rank": 9, "movie": "The Untouchables", "id": 0},
+    {"rank": 10, "movie": "Infernal Affairs", "id": 0}
+  ]
+},
+{
+  "query": "mental illness drama",
+  "rankings": [
+    {"rank": 1, "movie": "One Flew Over the Cuckoo's Nest", "id": 17},
+    {"rank": 2, "movie": "A Beautiful Mind", "id": 0},
+    {"rank": 3, "movie": "Requiem for a Dream", "id": 97},
+    {"rank": 4, "movie": "The Shining", "id": 73},
+    {"rank": 5, "movie": "Joker", "id": 33},
+    {"rank": 6, "movie": "Rain Man", "id": 0},
+    {"rank": 7, "movie": "Silver Linings Playbook", "id": 0},
+    {"rank": 8, "movie": "Girl, Interrupted", "id": 0},
+    {"rank": 9, "movie": "Shutter Island", "id": 0},
+    {"rank": 10, "movie": "Black Swan", "id": 0}
+  ]
+},
+{
+  "query": "musical biography",
+  "rankings": [
+    {"rank": 1, "movie": "Whiplash", "id": 34},
+    {"rank": 2, "movie": "Amadeus", "id": 0},
+    {"rank": 3, "movie": "Ray", "id": 0},
+    {"rank": 4, "movie": "Walk the Line", "id": 0},
+    {"rank": 5, "movie": "La Vie en Rose", "id": 0},
+    {"rank": 6, "movie": "Bohemian Rhapsody", "id": 0},
+    {"rank": 7, "movie": "Coal Miner's Daughter", "id": 0},
+    {"rank": 8, "movie": "Bird", "id": 0},
+    {"rank": 9, "movie": "Love & Mercy", "id": 0},
+    {"rank": 10, "movie": "Straight Outta Compton", "id": 0}
+  ]
+},
+{
+  "query": "legal thriller",
+  "rankings": [
+    {"rank": 1, "movie": "12 Angry Men", "id": 4},
+    {"rank": 2, "movie": "Witness for the Prosecution", "id": 79},
+    {"rank": 3, "movie": "A Few Good Men", "id": 0},
+    {"rank": 4, "movie": "The Verdict", "id": 0},
+    {"rank": 5, "movie": "Philadelphia", "id": 0},
+    {"rank": 6, "movie": "Primal Fear", "id": 0},
+    {"rank": 7, "movie": "To Kill a Mockingbird", "id": 0},
+    {"rank": 8, "movie": "Presumed Innocent", "id": 0},
+    {"rank": 9, "movie": "The Firm", "id": 0},
+    {"rank": 10, "movie": "Judgment at Nuremberg", "id": 0}
+  ]
+},
+{
+  "query": "survival horror",
+  "rankings": [
+    {"rank": 1, "movie": "Alien", "id": 75},
+    {"rank": 2, "movie": "The Shining", "id": 73},
+    {"rank": 3, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 4, "movie": "Psycho", "id": 49},
+    {"rank": 5, "movie": "A Quiet Place", "id": 0},
+    {"rank": 6, "movie": "Train to Busan", "id": 0},
+    {"rank": 7, "movie": "28 Days Later", "id": 0},
+    {"rank": 8, "movie": "The Thing", "id": 0},
+    {"rank": 9, "movie": "Jaws", "id": 0},
+    {"rank": 10, "movie": "Aliens", "id": 0}
+  ]
+},
+{
+  "query": "political conspiracy",
+  "rankings": [
+    {"rank": 1, "movie": "The Lives of Others", "id": 67},
+    {"rank": 2, "movie": "Dr. Strangelove", "id": 78},
+    {"rank": 3, "movie": "The Departed", "id": 37},
+    {"rank": 4, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 5, "movie": "JFK", "id": 0},
+    {"rank": 6, "movie": "All the President's Men", "id": 0},
+    {"rank": 7, "movie": "Three Days of the Condor", "id": 0},
+    {"rank": 8, "movie": "Z", "id": 0},
+    {"rank": 9, "movie": "The Manchurian Candidate", "id": 0},
+    {"rank": 10, "movie": "The Parallax View", "id": 0}
+  ]
+},
+{
+  "query": "animated adventure",
+  "rankings": [
+    {"rank": 1, "movie": "Spirited Away", "id": 23},
+    {"rank": 2, "movie": "WALL·E", "id": 66},
+    {"rank": 3, "movie": "Spider-Man: Into the Spider-Verse", "id": 58},
+    {"rank": 4, "movie": "Princess Mononoke", "id": 70},
+    {"rank": 5, "movie": "Coco", "id": 61},
+    {"rank": 6, "movie": "The Lion King", "id": 43},
+    {"rank": 7, "movie": "Your Name", "id": 56},
+    {"rank": 8, "movie": "Grave of the Fireflies", "id": 46},
+    {"rank": 9, "movie": "Castle in the Sky", "id": 0},
+    {"rank": 10, "movie": "How to Train Your Dragon", "id": 0}
+  ]
+},
+{
+  "query": "romantic comedy 1990s",
+  "rankings": [
+    {"rank": 1, "movie": "Amélie", "id": 95},
+    {"rank": 2, "movie": "Groundhog Day", "id": 0},
+    {"rank": 3, "movie": "Pretty Woman", "id": 0},
+    {"rank": 4, "movie": "When Harry Met Sally", "id": 0},
+    {"rank": 5, "movie": "Notting Hill", "id": 0},
+    {"rank": 6, "movie": "Sleepless in Seattle", "id": 0},
+    {"rank": 7, "movie": "Four Weddings and a Funeral", "id": 0},
+    {"rank": 8, "movie": "Jerry Maguire", "id": 0},
+    {"rank": 9, "movie": "You've Got Mail", "id": 0},
+    {"rank": 10, "movie": "My Best Friend's Wedding", "id": 0}
+  ]
+},
+{
+  "query": "assassin action",
+  "rankings": [
+    {"rank": 1, "movie": "Léon", "id": 42},
+    {"rank": 2, "movie": "Kill Bill", "id": 0},
+    {"rank": 3, "movie": "John Wick", "id": 0},
+    {"rank": 4, "movie": "The Bourne Identity", "id": 0},
+    {"rank": 5, "movie": "La Femme Nikita", "id": 0},
+    {"rank": 6, "movie": "The Professional", "id": 0},
+    {"rank": 7, "movie": "Wanted", "id": 0},
+    {"rank": 8, "movie": "The Killer", "id": 0},
+    {"rank": 9, "movie": "Ghost Dog: The Way of the Samurai", "id": 0},
+    {"rank": 10, "movie": "Assassins", "id": 0}
+  ]
+},
+{
+  "query": "family drama",
+  "rankings": [
+    {"rank": 1, "movie": "The Godfather", "id": 1},
+    {"rank": 2, "movie": "The Lion King", "id": 43},
+    {"rank": 3, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 4, "movie": "Taare Zameen Par", "id": 65},
+    {"rank": 5, "movie": "3 Idiots", "id": 64},
+    {"rank": 6, "movie": "Dangal", "id": 57},
+    {"rank": 7, "movie": "Capharnaüm", "id": 53},
+    {"rank": 8, "movie": "Grave of the Fireflies", "id": 46},
+    {"rank": 9, "movie": "American Beauty", "id": 98},
+    {"rank": 10, "movie": "Babam ve Oglum", "id": 92}
+  ]
+},
+{
+  "query": "gothic horror",
+  "rankings": [
+    {"rank": 1, "movie": "The Shining", "id": 73},
+    {"rank": 2, "movie": "Psycho", "id": 49},
+    {"rank": 3, "movie": "Alien", "id": 75},
+    {"rank": 4, "movie": "Dracula", "id": 0},
+    {"rank": 5, "movie": "The Others", "id": 0},
+    {"rank": 6, "movie": "Crimson Peak", "id": 0},
+    {"rank": 7, "movie": "Interview with the Vampire", "id": 0},
+    {"rank": 8, "movie": "The Woman in Black", "id": 0},
+    {"rank": 9, "movie": "Sleepy Hollow", "id": 0},
+    {"rank": 10, "movie": "Bram Stoker's Dracula", "id": 0}
+  ]
+},
+{
+  "query": "spy thriller",
+  "rankings": [
+    {"rank": 1, "movie": "The Lives of Others", "id": 67},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 4, "movie": "North by Northwest", "id": 0},
+    {"rank": 5, "movie": "The Bourne Ultimatum", "id": 0},
+    {"rank": 6, "movie": "Bridge of Spies", "id": 0},
+    {"rank": 7, "movie": "The Spy Who Came in from the Cold", "id": 0},
+    {"rank": 8, "movie": "Mission: Impossible", "id": 0},
+    {"rank": 9, "movie": "Tinker Tailor Soldier Spy", "id": 0},
+    {"rank": 10, "movie": "The Third Man", "id": 0}
+  ]
+},
+{
+  "query": "philosophical sci-fi",
+  "rankings": [
+    {"rank": 1, "movie": "The Matrix", "id": 14},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "Interstellar", "id": 21},
+    {"rank": 4, "movie": "2001: A Space Odyssey", "id": 0},
+    {"rank": 5, "movie": "Blade Runner", "id": 0},
+    {"rank": 6, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 7, "movie": "Solaris", "id": 0},
+    {"rank": 8, "movie": "Ex Machina", "id": 0},
+    {"rank": 9, "movie": "Ghost in the Shell", "id": 0},
+    {"rank": 10, "movie": "Arrival", "id": 0}
+  ]
+},
+{
+  "query": "boxing drama",
+  "rankings": [
+    {"rank": 1, "movie": "Raging Bull", "id": 0},
+    {"rank": 2, "movie": "Rocky", "id": 0},
+    {"rank": 3, "movie": "Million Dollar Baby", "id": 0},
+    {"rank": 4, "movie": "The Fighter", "id": 0},
+    {"rank": 5, "movie": "Cinderella Man", "id": 0},
+    {"rank": 6, "movie": "The Hurricane", "id": 0},
+    {"rank": 7, "movie": "Ali", "id": 0},
+    {"rank": 8, "movie": "Southpaw", "id": 0},
+    {"rank": 9, "movie": "Creed", "id": 0},
+    {"rank": 10, "movie": "The Great White Hope", "id": 0}
+  ]
+},
+{
+  "query": "western revenge",
+  "rankings": [
+    {"rank": 1, "movie": "Il buono, il brutto, il cattivo", "id": 12},
+    {"rank": 2, "movie": "Once Upon a Time in the West", "id": 48},
+    {"rank": 3, "movie": "Django Unchained", "id": 62},
+    {"rank": 4, "movie": "Unforgiven", "id": 0},
+    {"rank": 5, "movie": "The Magnificent Seven", "id": 0},
+    {"rank": 6, "movie": "True Grit", "id": 0},
+    {"rank": 7, "movie": "3:10 to Yuma", "id": 0},
+    {"rank": 8, "movie": "The Outlaw Josey Wales", "id": 0},
+    {"rank": 9, "movie": "Open Range", "id": 0},
+    {"rank": 10, "movie": "The Wild Bunch", "id": 0}
+  ]
+},
+{
+  "query": "dark comedy",
+  "rankings": [
+    {"rank": 1, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 2, "movie": "Dr. Strangelove", "id": 78},
+    {"rank": 3, "movie": "Fight Club", "id": 9},
+    {"rank": 4, "movie": "Snatch", "id": 96},
+    {"rank": 5, "movie": "American Beauty", "id": 98},
+    {"rank": 6, "movie": "In Bruges", "id": 0},
+    {"rank": 7, "movie": "Fargo", "id": 0},
+    {"rank": 8, "movie": "The Big Lebowski", "id": 0},
+    {"rank": 9, "movie": "Brazil", "id": 0},
+    {"rank": 10, "movie": "A Clockwork Orange", "id": 0}
+  ]
+},
+{
+  "query": "serial killer thriller",
+  "rankings": [
+    {"rank": 1, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 2, "movie": "Se7en", "id": 27},
+    {"rank": 3, "movie": "Memento", "id": 69},
+    {"rank": 4, "movie": "Psycho", "id": 49},
+    {"rank": 5, "movie": "Zodiac", "id": 0},
+    {"rank": 6, "movie": "American Psycho", "id": 0},
+    {"rank": 7, "movie": "M", "id": 0},
+    {"rank": 8, "movie": "Memories of Murder", "id": 0},
+    {"rank": 9, "movie": "The Girl with the Dragon Tattoo", "id": 0},
+    {"rank": 10, "movie": "The Bone Collector", "id": 0}
+  ]
+},
+{
+  "query": "fantasy trilogy",
+  "rankings": [
+    {"rank": 1, "movie": "The Lord of the Rings: The Return of the King", "id": 5},
+    {"rank": 2, "movie": "The Lord of the Rings: The Fellowship of the Ring", "id": 10},
+    {"rank": 3, "movie": "The Lord of the Rings: The Two Towers", "id": 13},
+    {"rank": 4, "movie": "Star Wars: Episode V - The Empire Strikes Back", "id": 16},
+    {"rank": 5, "movie": "Star Wars", "id": 29},
+    {"rank": 6, "movie": "The Dark Knight", "id": 2},
+    {"rank": 7, "movie": "The Dark Knight Rises", "id": 63},
+    {"rank": 8, "movie": "Avengers: Infinity War", "id": 60},
+    {"rank": 9, "movie": "Avengers: Endgame", "id": 59},
+    {"rank": 10, "movie": "Spider-Man: Into the Spider-Verse", "id": 58}
+  ]
+},
+{
+  "query": "wartime romance",
+  "rankings": [
+    {"rank": 1, "movie": "Casablanca", "id": 50},
+    {"rank": 2, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 3, "movie": "Gone with the Wind", "id": 0},
+    {"rank": 4, "movie": "From Here to Eternity", "id": 0},
+    {"rank": 5, "movie": "The English Patient", "id": 0},
+    {"rank": 6, "movie": "Pearl Harbor", "id": 0},
+    {"rank": 7, "movie": "Atonement", "id": 0},
+    {"rank": 8, "movie": "Doctor Zhivago", "id": 0},
+    {"rank": 9, "movie": "A Very Long Engagement", "id": 0},
+    {"rank": 10, "movie": "Cold Mountain", "id": 0}
+  ]
+},
+{
+  "query": "mind bending thriller",
+  "rankings": [
+    {"rank": 1, "movie": "Inception", "id": 8},
+    {"rank": 2, "movie": "Memento", "id": 69},
+    {"rank": 3, "movie": "Fight Club", "id": 9},
+    {"rank": 4, "movie": "The Prestige", "id": 36},
+    {"rank": 5, "movie": "The Matrix", "id": 14},
+    {"rank": 6, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 7, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 8, "movie": "Oldboy", "id": 68},
+    {"rank": 9, "movie": "Andhadhun", "id": 86},
+    {"rank": 10, "movie": "Shutter Island", "id": 0}
+  ]
+},
+{
+  "query": "crime biography",
+  "rankings": [
+    {"rank": 1, "movie": "Goodfellas", "id": 15},
+    {"rank": 2, "movie": "The Wolf of Wall Street", "id": 0},
+    {"rank": 3, "movie": "Catch Me If You Can", "id": 0},
+    {"rank": 4, "movie": "American Gangster", "id": 0},
+    {"rank": 5, "movie": "Public Enemies", "id": 0},
+    {"rank": 6, "movie": "Black Mass", "id": 0},
+    {"rank": 7, "movie": "Capone", "id": 0},
+    {"rank": 8, "movie": "Bonnie and Clyde", "id": 0},
+    {"rank": 9, "movie": "Pain & Gain", "id": 0},
+    {"rank": 10, "movie": "Bronson", "id": 0}
+  ]
+},
+{
+  "query": "teenage superhero",
+  "rankings": [
+    {"rank": 1, "movie": "Spider-Man: Into the Spider-Verse", "id": 58},
+    {"rank": 2, "movie": "The Dark Knight", "id": 2},
+    {"rank": 3, "movie": "Avengers: Infinity War", "id": 60},
+    {"rank": 4, "movie": "Avengers: Endgame", "id": 59},
+    {"rank": 5, "movie": "Spider-Man", "id": 0},
+    {"rank": 6, "movie": "Spider-Man 2", "id": 0},
+    {"rank": 7, "movie": "X-Men: First Class", "id": 0},
+    {"rank": 8, "movie": "Big Hero 6", "id": 0},
+    {"rank": 9, "movie": "Chronicle", "id": 0},
+    {"rank": 10, "movie": "Kick-Ass", "id": 0}
+  ]
+},
+{
+  "query": "battle epic",
+  "rankings": [
+    {"rank": 1, "movie": "The Lord of the Rings: The Return of the King", "id": 5},
+    {"rank": 2, "movie": "Gladiator", "id": 39},
+    {"rank": 3, "movie": "Braveheart", "id": 0},
+    {"rank": 4, "movie": "Saving Private Ryan", "id": 24},
+    {"rank": 5, "movie": "The Last Samurai", "id": 0},
+    {"rank": 6, "movie": "Kingdom of Heaven", "id": 0},
+    {"rank": 7, "movie": "Troy", "id": 0},
+    {"rank": 8, "movie": "300", "id": 0},
+    {"rank": 9, "movie": "Alexander", "id": 0},
+    {"rank": 10, "movie": "The Last of the Mohicans", "id": 0}
+  ]
+},
+{
+  "query": "medieval fantasy",
+  "rankings": [
+    {"rank": 1, "movie": "The Lord of the Rings: The Return of the King", "id": 5},
+    {"rank": 2, "movie": "The Lord of the Rings: The Fellowship of the Ring", "id": 10},
+    {"rank": 3, "movie": "The Lord of the Rings: The Two Towers", "id": 13},
+    {"rank": 4, "movie": "Princess Mononoke", "id": 70},
+    {"rank": 5, "movie": "Pan's Labyrinth", "id": 0},
+    {"rank": 6, "movie": "The Princess Bride", "id": 0},
+    {"rank": 7, "movie": "Excalibur", "id": 0},
+    {"rank": 8, "movie": "Dragonheart", "id": 0},
+    {"rank": 9, "movie": "Willow", "id": 0},
+    {"rank": 10, "movie": "The Dark Crystal", "id": 0}
+  ]
+},
+{
+  "query": "psychological horror",
+  "rankings": [
+    {"rank": 1, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 2, "movie": "The Shining", "id": 73},
+    {"rank": 3, "movie": "Psycho", "id": 49},
+    {"rank": 4, "movie": "Alien", "id": 75},
+    {"rank": 5, "movie": "Se7en", "id": 27},
+    {"rank": 6, "movie": "Rosemary's Baby", "id": 0},
+    {"rank": 7, "movie": "Black Swan", "id": 0},
+    {"rank": 8, "movie": "The Babadook", "id": 0},
+    {"rank": 9, "movie": "Jacob's Ladder", "id": 0},
+    {"rank": 10, "movie": "Repulsion", "id": 0}
+  ]
+},
+{
+  "query": "post apocalyptic",
+  "rankings": [
+    {"rank": 1, "movie": "The Matrix", "id": 14},
+    {"rank": 2, "movie": "Terminator 2: Judgment Day", "id": 44},
+    {"rank": 3, "movie": "WALL·E", "id": 66},
+    {"rank": 4, "movie": "Children of Men", "id": 0},
+    {"rank": 5, "movie": "Mad Max: Fury Road", "id": 0},
+    {"rank": 6, "movie": "12 Monkeys", "id": 0},
+    {"rank": 7, "movie": "Snowpiercer", "id": 0},
+    {"rank": 8, "movie": "The Road", "id": 0},
+    {"rank": 9, "movie": "A Boy and His Dog", "id": 0},
+    {"rank": 10, "movie": "Book of Eli", "id": 0}
+  ]
+},
+{
+  "query": "film noir classic",
+  "rankings": [
+    {"rank": 1, "movie": "Sunset Blvd.", "id": 82},
+    {"rank": 2, "movie": "Double Indemnity", "id": 0},
+    {"rank": 3, "movie": "The Third Man", "id": 0},
+    {"rank": 4, "movie": "Touch of Evil", "id": 0},
+    {"rank": 5, "movie": "The Maltese Falcon", "id": 0},
+    {"rank": 6, "movie": "The Big Sleep", "id": 0},
+    {"rank": 7, "movie": "Out of the Past", "id": 0},
+    {"rank": 8, "movie": "Laura", "id": 0},
+    {"rank": 9, "movie": "The Killers", "id": 0},
+    {"rank": 10, "movie": "White Heat", "id": 0}
+  ]
+},
+{
+  "query": "buddy cop comedy",
+  "rankings": [
+    {"rank": 1, "movie": "Hot Fuzz", "id": 0},
+    {"rank": 2, "movie": "Lethal Weapon", "id": 0},
+    {"rank": 3, "movie": "48 Hrs.", "id": 0},
+    {"rank": 4, "movie": "Bad Boys", "id": 0},
+    {"rank": 5, "movie": "Rush Hour", "id": 0},
+    {"rank": 6, "movie": "The Other Guys", "id": 0},
+    {"rank": 7, "movie": "21 Jump Street", "id": 0},
+    {"rank": 8, "movie": "Beverly Hills Cop", "id": 0},
+    {"rank": 9, "movie": "Men in Black", "id": 0},
+    {"rank": 10, "movie": "Turner & Hooch", "id": 0}
+  ]
+},
+{
+  "query": "detective mystery",
+  "rankings": [
+    {"rank": 1, "movie": "Se7en", "id": 27},
+    {"rank": 2, "movie": "Memento", "id": 69},
+    {"rank": 3, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 4, "movie": "Rear Window", "id": 81},
+    {"rank": 5, "movie": "L.A. Confidential", "id": 0},
+    {"rank": 6, "movie": "Chinatown", "id": 0},
+    {"rank": 7, "movie": "Zodiac", "id": 0},
+    {"rank": 8, "movie": "Mystic River", "id": 0},
+    {"rank": 9, "movie": "Gone Baby Gone", "id": 0},
+    {"rank": 10, "movie": "The Big Sleep", "id": 0}
+  ]
+},
+{
+  "query": "art house drama",
+  "rankings": [
+    {"rank": 1, "movie": "Cinema Paradiso", "id": 45},
+    {"rank": 2, "movie": "Amélie", "id": 95},
+    {"rank": 3, "movie": "The Lives of Others", "id": 67},
+    {"rank": 4, "movie": "La vita è bella", "id": 26},
+    {"rank": 5, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 6, "movie": "Incendies", "id": 90},
+    {"rank": 7, "movie": "Jagten", "id": 88},
+    {"rank": 8, "movie": "Jodaeiye Nader az Simin", "id": 89},
+    {"rank": 9, "movie": "Cidade de Deus", "id": 22},
+    {"rank": 10, "movie": "Capharnaüm", "id": 53}
+  ]
+},
+{
+  "query": "criminal underworld",
+  "rankings": [
+    {"rank": 1, "movie": "The Godfather", "id": 1},
+    {"rank": 2, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 3, "movie": "Goodfellas", "id": 15},
+    {"rank": 4, "movie": "The Departed", "id": 37},
+    {"rank": 5, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 6, "movie": "Cidade de Deus", "id": 22},
+    {"rank": 7, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 8, "movie": "Snatch", "id": 96},
+    {"rank": 9, "movie": "American History X", "id": 40},
+    {"rank": 10, "movie": "Léon", "id": 42}
+  ]
+},
+{
+  "query": "father son relationship",
+  "rankings": [
+    {"rank": 1, "movie": "The Lion King", "id": 43},
+    {"rank": 2, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 3, "movie": "The Godfather", "id": 1},
+    {"rank": 4, "movie": "Taare Zameen Par", "id": 65},
+    {"rank": 5, "movie": "Bicycle Thieves", "id": 0},
+    {"rank": 6, "movie": "Road to Perdition", "id": 0},
+    {"rank": 7, "movie": "Big Fish", "id": 0},
+    {"rank": 8, "movie": "The Pursuit of Happyness", "id": 0},
+    {"rank": 9, "movie": "Indiana Jones and the Last Crusade", "id": 0},
+    {"rank": 10, "movie": "Babam ve Oglum", "id": 92}
+  ]
+},
+{
+  "query": "bank robbery",
+  "rankings": [
+    {"rank": 1, "movie": "Inception", "id": 8},
+    {"rank": 2, "movie": "The Dark Knight", "id": 2},
+    {"rank": 3, "movie": "Heat", "id": 0},
+    {"rank": 4, "movie": "Dog Day Afternoon", "id": 0},
+    {"rank": 5, "movie": "Inside Man", "id": 0},
+    {"rank": 6, "movie": "The Town", "id": 0},
+    {"rank": 7, "movie": "Point Break", "id": 0},
+    {"rank": 8, "movie": "Hell or High Water", "id": 0},
+    {"rank": 9, "movie": "The Place Beyond the Pines", "id": 0},
+    {"rank": 10, "movie": "Public Enemies", "id": 0}
+  ]
+},
+{
+  "query": "alien invasion",
+  "rankings": [
+    {"rank": 1, "movie": "Alien", "id": 75},
+    {"rank": 2, "movie": "The Matrix", "id": 14},
+    {"rank": 3, "movie": "Star Wars", "id": 29},
+    {"rank": 4, "movie": "Star Wars: Episode V - The Empire Strikes Back", "id": 16},
+    {"rank": 5, "movie": "Independence Day", "id": 0},
+    {"rank": 6, "movie": "Edge of Tomorrow", "id": 0},
+    {"rank": 7, "movie": "District 9", "id": 0},
+    {"rank": 8, "movie": "War of the Worlds", "id": 0},
+    {"rank": 9, "movie": "Signs", "id": 0},
+    {"rank": 10, "movie": "Arrival", "id": 0}
+  ]
+},
+{
+  "query": "romance drama",
+  "rankings": [
+    {"rank": 1, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 2, "movie": "Casablanca", "id": 50},
+    {"rank": 3, "movie": "Cinema Paradiso", "id": 45},
+    {"rank": 4, "movie": "Amélie", "id": 95},
+    {"rank": 5, "movie": "La vita è bella", "id": 26},
+    {"rank": 6, "movie": "The Intouchables", "id": 35},
+    {"rank": 7, "movie": "Good Will Hunting", "id": 99},
+    {"rank": 8, "movie": "American Beauty", "id": 98},
+    {"rank": 9, "movie": "Your Name", "id": 56},
+    {"rank": 10, "movie": "3 Idiots", "id": 64}
+  ]
+},
+{
+  "query": "hitman action",
+  "rankings": [
+    {"rank": 1, "movie": "Léon", "id": 42},
+    {"rank": 2, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 3, "movie": "The Departed", "id": 37},
+    {"rank": 4, "movie": "No Country for Old Men", "id": 0},
+    {"rank": 5, "movie": "John Wick", "id": 0},
+    {"rank": 6, "movie": "Collateral", "id": 0},
+    {"rank": 7, "movie": "The Professional", "id": 0},
+    {"rank": 8, "movie": "Ghost Dog: The Way of the Samurai", "id": 0},
+    {"rank": 9, "movie": "Road to Perdition", "id": 0},
+    {"rank": 10, "movie": "The Mechanic", "id": 0}
+  ]
+},
+{
+  "query": "social commentary",
+  "rankings": [
+    {"rank": 1, "movie": "Parasite", "id": 19},
+    {"rank": 2, "movie": "Modern Times", "id": 51},
+    {"rank": 3, "movie": "The Great Dictator", "id": 83},
+    {"rank": 4, "movie": "Dr. Strangelove", "id": 78},
+    {"rank": 5, "movie": "American History X", "id": 40},
+    {"rank": 6, "movie": "Fight Club", "id": 9},
+    {"rank": 7, "movie": "Metropolis", "id": 0},
+    {"rank": 8, "movie": "Do the Right Thing", "id": 0},
+    {"rank": 9, "movie": "Network", "id": 0},
+    {"rank": 10, "movie": "They Live", "id": 0}
+  ]
+},
+{
+  "query": "classic horror",
+  "rankings": [
+    {"rank": 1, "movie": "Psycho", "id": 49},
+    {"rank": 2, "movie": "Alien", "id": 75},
+    {"rank": 3, "movie": "The Shining", "id": 73},
+    {"rank": 4, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 5, "movie": "Nosferatu", "id": 0},
+    {"rank": 6, "movie": "The Exorcist", "id": 0},
+    {"rank": 7, "movie": "Rosemary's Baby", "id": 0},
+    {"rank": 8, "movie": "Frankenstein", "id": 0},
+    {"rank": 9, "movie": "Night of the Living Dead", "id": 0},
+    {"rank": 10, "movie": "The Thing", "id": 0}
+  ]
+},
+{
+  "query": "kung fu action",
+  "rankings": [
+    {"rank": 1, "movie": "Enter the Dragon", "id": 0},
+    {"rank": 2, "movie": "Crouching Tiger, Hidden Dragon", "id": 0},
+    {"rank": 3, "movie": "The Matrix", "id": 14},
+    {"rank": 4, "movie": "Hero", "id": 0},
+    {"rank": 5, "movie": "Ip Man", "id": 0},
+    {"rank": 6, "movie": "Fist of Legend", "id": 0},
+    {"rank": 7, "movie": "Once Upon a Time in China", "id": 0},
+    {"rank": 8, "movie": "Kung Fu Hustle", "id": 0},
+    {"rank": 9, "movie": "The 36th Chamber of Shaolin", "id": 0},
+    {"rank": 10, "movie": "Drunken Master", "id": 0}
+  ]
+},
+{
+  "query": "historic war film",
+  "rankings": [
+    {"rank": 1, "movie": "Schindler's List", "id": 7},
+    {"rank": 2, "movie": "Saving Private Ryan", "id": 24},
+    {"rank": 3, "movie": "The Pianist", "id": 38},
+    {"rank": 4, "movie": "Paths of Glory", "id": 80},
+    {"rank": 5, "movie": "Apocalypse Now", "id": 74},
+    {"rank": 6, "movie": "Lawrence of Arabia", "id": 0},
+    {"rank": 7, "movie": "Das Boot", "id": 0},
+    {"rank": 8, "movie": "The Bridge on the River Kwai", "id": 0},
+    {"rank": 9, "movie": "All Quiet on the Western Front", "id": 0},
+    {"rank": 10, "movie": "Letters from Iwo Jima", "id": 0}
+  ]
+},
+{
+  "query": "mobster biography",
+  "rankings": [
+    {"rank": 1, "movie": "Goodfellas", "id": 15},
+    {"rank": 2, "movie": "The Godfather", "id": 1},
+    {"rank": 3, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 4, "movie": "Casino", "id": 0},
+    {"rank": 5, "movie": "The Untouchables", "id": 0},
+    {"rank": 6, "movie": "Donnie Brasco", "id": 0},
+    {"rank": 7, "movie": "Public Enemies", "id": 0},
+    {"rank": 8, "movie": "Black Mass", "id": 0},
+    {"rank": 9, "movie": "American Gangster", "id": 0},
+    {"rank": 10, "movie": "Carlito's Way", "id": 0}
+  ]
+},
+{
+  "query": "tragic romance",
+  "rankings": [
+    {"rank": 1, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 2, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 3, "movie": "Casablanca", "id": 50},
+    {"rank": 4, "movie": "Cinema Paradiso", "id": 45},
+    {"rank": 5, "movie": "Your Name", "id": 56},
+    {"rank": 6, "movie": "Gone with the Wind", "id": 0},
+    {"rank": 7, "movie": "Doctor Zhivago", "id": 0},
+    {"rank": 8, "movie": "Atonement", "id": 0},
+    {"rank": 9, "movie": "The English Patient", "id": 0},
+    {"rank": 10, "movie": "Romeo and Juliet", "id": 0}
+  ]
+},
+{
+  "query": "monster horror",
+  "rankings": [
+    {"rank": 1, "movie": "Alien", "id": 75},
+    {"rank": 2, "movie": "The Thing", "id": 0},
+    {"rank": 3, "movie": "Jaws", "id": 0},
+    {"rank": 4, "movie": "King Kong", "id": 0},
+    {"rank": 5, "movie": "Godzilla", "id": 0},
+    {"rank": 6, "movie": "The Host", "id": 0},
+    {"rank": 7, "movie": "An American Werewolf in London", "id": 0},
+    {"rank": 8, "movie": "The Mist", "id": 0},
+    {"rank": 9, "movie": "Cloverfield", "id": 0},
+    {"rank": 10, "movie": "The Descent", "id": 0}
+  ]
+},
+{
+  "query": "religious drama",
+  "rankings": [
+    {"rank": 1, "movie": "The Green Mile", "id": 25},
+    {"rank": 2, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 3, "movie": "The Seventh Seal", "id": 0},
+    {"rank": 4, "movie": "Silence", "id": 0},
+    {"rank": 5, "movie": "Ben-Hur", "id": 0},
+    {"rank": 6, "movie": "The Mission", "id": 0},
+    {"rank": 7, "movie": "The Last Temptation of Christ", "id": 0},
+    {"rank": 8, "movie": "The Name of the Rose", "id": 0},
+    {"rank": 9, "movie": "Au Revoir les Enfants", "id": 0},
+    {"rank": 10, "movie": "Of Gods and Men", "id": 0}
+  ]
+},
+{
+  "query": "street crime",
+  "rankings": [
+    {"rank": 1, "movie": "Cidade de Deus", "id": 22},
+    {"rank": 2, "movie": "Goodfellas", "id": 15},
+    {"rank": 3, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 4, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 5, "movie": "American History X", "id": 40},
+    {"rank": 6, "movie": "Snatch", "id": 96},
+    {"rank": 7, "movie": "The Departed", "id": 37},
+    {"rank": 8, "movie": "Léon", "id": 42},
+    {"rank": 9, "movie": "Mean Streets", "id": 0},
+    {"rank": 10, "movie": "Training Day", "id": 0}
+  ]
+},
+{
+  "query": "vigilante justice",
+  "rankings": [
+    {"rank": 1, "movie": "The Dark Knight", "id": 2},
+    {"rank": 2, "movie": "The Dark Knight Rises", "id": 63},
+    {"rank": 3, "movie": "V for Vendetta", "id": 0},
+    {"rank": 4, "movie": "Django Unchained", "id": 62},
+    {"rank": 5, "movie": "Gladiator", "id": 39},
+    {"rank": 6, "movie": "Léon", "id": 42},
+    {"rank": 7, "movie": "Death Wish", "id": 0},
+    {"rank": 8, "movie": "Man on Fire", "id": 0},
+    {"rank": 9, "movie": "The Punisher", "id": 0},
+    {"rank": 10, "movie": "The Crow", "id": 0}
+  ]
+},
+{
+  "query": "police investigation",
+  "rankings": [
+    {"rank": 1, "movie": "Se7en", "id": 27},
+    {"rank": 2, "movie": "The Silence of the Lambs", "id": 28},
+    {"rank": 3, "movie": "The Departed", "id": 37},
+    {"rank": 4, "movie": "Memento", "id": 69},
+    {"rank": 5, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 6, "movie": "L.A. Confidential", "id": 0},
+    {"rank": 7, "movie": "Zodiac", "id": 0},
+    {"rank": 8, "movie": "Heat", "id": 0},
+    {"rank": 9, "movie": "Mystic River", "id": 0},
+    {"rank": 10, "movie": "Memories of Murder", "id": 0}
+  ]
+},
+{
+  "query": "gladiator epic",
+  "rankings": [
+    {"rank": 1, "movie": "Gladiator", "id": 39},
+    {"rank": 2, "movie": "Spartacus", "id": 0},
+    {"rank": 3, "movie": "Ben-Hur", "id": 0},
+    {"rank": 4, "movie": "300", "id": 0},
+    {"rank": 5, "movie": "Troy", "id": 0},
+    {"rank": 6, "movie": "Kingdom of Heaven", "id": 0},
+    {"rank": 7, "movie": "Alexander", "id": 0},
+    {"rank": 8, "movie": "The Fall of the Roman Empire", "id": 0},
+    {"rank": 9, "movie": "Centurion", "id": 0},
+    {"rank": 10, "movie": "The Eagle", "id": 0}
+  ]
+},
+{
+  "query": "military drama",
+  "rankings": [
+    {"rank": 1, "movie": "Saving Private Ryan", "id": 24},
+    {"rank": 2, "movie": "Paths of Glory", "id": 80},
+    {"rank": 3, "movie": "Apocalypse Now", "id": 74},
+    {"rank": 4, "movie": "Full Metal Jacket", "id": 0},
+    {"rank": 5, "movie": "Platoon", "id": 0},
+    {"rank": 6, "movie": "Das Boot", "id": 0},
+    {"rank": 7, "movie": "The Great Escape", "id": 0},
+    {"rank": 8, "movie": "The Bridge on the River Kwai", "id": 0},
+    {"rank": 9, "movie": "Letters from Iwo Jima", "id": 0},
+    {"rank": 10, "movie": "Black Hawk Down", "id": 0}
+  ]
+},
+{
+  "query": "conspiracy thriller",
+  "rankings": [
+    {"rank": 1, "movie": "The Lives of Others", "id": 67},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "The Usual Suspects", "id": 41},
+    {"rank": 4, "movie": "The Departed", "id": 37},
+    {"rank": 5, "movie": "Dr. Strangelove", "id": 78},
+    {"rank": 6, "movie": "Capricorn One", "id": 0},
+    {"rank": 7, "movie": "Three Days of the Condor", "id": 0},
+    {"rank": 8, "movie": "The Manchurian Candidate", "id": 0},
+    {"rank": 9, "movie": "All the President's Men", "id": 0},
+    {"rank": 10, "movie": "The Parallax View", "id": 0}
+  ]
+},
+{
+  "query": "dark fantasy",
+  "rankings": [
+    {"rank": 1, "movie": "The Dark Knight", "id": 2},
+    {"rank": 2, "movie": "Pan's Labyrinth", "id": 0},
+    {"rank": 3, "movie": "Spirited Away", "id": 23},
+    {"rank": 4, "movie": "Princess Mononoke", "id": 70},
+    {"rank": 5, "movie": "Coraline", "id": 0},
+    {"rank": 6, "movie": "The City of Lost Children", "id": 0},
+    {"rank": 7, "movie": "Sleepy Hollow", "id": 0},
+    {"rank": 8, "movie": "Hellboy", "id": 0},
+    {"rank": 9, "movie": "MirrorMask", "id": 0},
+    {"rank": 10, "movie": "The Dark Crystal", "id": 0}
+  ]
+},
+{
+  "query": "family comedy",
+  "rankings": [
+    {"rank": 1, "movie": "Modern Times", "id": 51},
+    {"rank": 2, "movie": "City Lights", "id": 52},
+    {"rank": 3, "movie": "3 Idiots", "id": 64},
+    {"rank": 4, "movie": "The Great Dictator", "id": 83},
+    {"rank": 5, "movie": "Back to the Future", "id": 47},
+    {"rank": 6, "movie": "Mrs. Doubtfire", "id": 0},
+    {"rank": 7, "movie": "The Princess Bride", "id": 0},
+    {"rank": 8, "movie": "Home Alone", "id": 0},
+    {"rank": 9, "movie": "The Goonies", "id": 0},
+    {"rank": 10, "movie": "The Parent Trap", "id": 0}
+  ]
+},
+{
+  "query": "music prodigy",
+  "rankings": [
+    {"rank": 1, "movie": "Whiplash", "id": 34},
+    {"rank": 2, "movie": "Amadeus", "id": 0},
+    {"rank": 3, "movie": "Shine", "id": 0},
+    {"rank": 4, "movie": "August Rush", "id": 0},
+    {"rank": 5, "movie": "The Pianist", "id": 38},
+    {"rank": 6, "movie": "Ray", "id": 0},
+    {"rank": 7, "movie": "The Soloist", "id": 0},
+    {"rank": 8, "movie": "Copying Beethoven", "id": 0},
+    {"rank": 9, "movie": "La Vie en Rose", "id": 0},
+    {"rank": 10, "movie": "Immortal Beloved", "id": 0}
+  ]
+},
+{
+  "query": "assassin revenge",
+  "rankings": [
+    {"rank": 1, "movie": "Léon", "id": 42},
+    {"rank": 2, "movie": "Kill Bill", "id": 0},
+    {"rank": 3, "movie": "Oldboy", "id": 68},
+    {"rank": 4, "movie": "The Count of Monte Cristo", "id": 0},
+    {"rank": 5, "movie": "V for Vendetta", "id": 0},
+    {"rank": 6, "movie": "John Wick", "id": 0},
+    {"rank": 7, "movie": "The Professional", "id": 0},
+    {"rank": 8, "movie": "Taken", "id": 0},
+    {"rank": 9, "movie": "Man on Fire", "id": 0},
+    {"rank": 10, "movie": "La Femme Nikita", "id": 0}
+  ]
+},
+{
+  "query": "chess drama",
+  "rankings": [
+    {"rank": 1, "movie": "The Seventh Seal", "id": 0},
+    {"rank": 2, "movie": "Searching for Bobby Fischer", "id": 0},
+    {"rank": 3, "movie": "Queen of Katwe", "id": 0},
+    {"rank": 4, "movie": "Pawn Sacrifice", "id": 0},
+    {"rank": 5, "movie": "Magnus", "id": 0},
+    {"rank": 6, "movie": "Computer Chess", "id": 0},
+    {"rank": 7, "movie": "Fresh", "id": 0},
+    {"rank": 8, "movie": "Life of a King", "id": 0},
+    {"rank": 9, "movie": "The Luzhin Defence", "id": 0},
+    {"rank": 10, "movie": "Knight Moves", "id": 0}
+  ]
+},
+{
+  "query": "space adventure",
+  "rankings": [
+    {"rank": 1, "movie": "Interstellar", "id": 21},
+    {"rank": 2, "movie": "Star Wars", "id": 29},
+    {"rank": 3, "movie": "Star Wars: Episode V - The Empire Strikes Back", "id": 16},
+    {"rank": 4, "movie": "Alien", "id": 75},
+    {"rank": 5, "movie": "WALL·E", "id": 66},
+    {"rank": 6, "movie": "The Matrix", "id": 14},
+    {"rank": 7, "movie": "2001: A Space Odyssey", "id": 0},
+    {"rank": 8, "movie": "Gravity", "id": 0},
+    {"rank": 9, "movie": "The Martian", "id": 0},
+    {"rank": 10, "movie": "Apollo 13", "id": 0}
+  ]
+},
+{
+  "query": "bounty hunter western",
+  "rankings": [
+    {"rank": 1, "movie": "The Good, the Bad and the Ugly", "id": 12},
+    {"rank": 2, "movie": "Django Unchained", "id": 62},
+    {"rank": 3, "movie": "Once Upon a Time in the West", "id": 48},
+    {"rank": 4, "movie": "For a Few Dollars More", "id": 0},
+    {"rank": 5, "movie": "The Hateful Eight", "id": 0},
+    {"rank": 6, "movie": "3:10 to Yuma", "id": 0},
+    {"rank": 7, "movie": "True Grit", "id": 0},
+    {"rank": 8, "movie": "Unforgiven", "id": 0},
+    {"rank": 9, "movie": "The Magnificent Seven", "id": 0},
+    {"rank": 10, "movie": "Open Range", "id": 0}
+  ]
+},
+{
+  "query": "zombie apocalypse",
+  "rankings": [
+    {"rank": 1, "movie": "28 Days Later", "id": 0},
+    {"rank": 2, "movie": "Train to Busan", "id": 0},
+    {"rank": 3, "movie": "World War Z", "id": 0},
+    {"rank": 4, "movie": "Shaun of the Dead", "id": 0},
+    {"rank": 5, "movie": "Dawn of the Dead", "id": 0},
+    {"rank": 6, "movie": "I Am Legend", "id": 0},
+    {"rank": 7, "movie": "Zombieland", "id": 0},
+    {"rank": 8, "movie": "REC", "id": 0},
+    {"rank": 9, "movie": "Night of the Living Dead", "id": 0},
+    {"rank": 10, "movie": "The Girl with All the Gifts", "id": 0}
+  ]
+},
+{
+  "query": "period romance",
+  "rankings": [
+    {"rank": 1, "movie": "Casablanca", "id": 50},
+    {"rank": 2, "movie": "Gone with the Wind", "id": 0},
+    {"rank": 3, "movie": "Pride & Prejudice", "id": 0},
+    {"rank": 4, "movie": "Sense and Sensibility", "id": 0},
+    {"rank": 5, "movie": "Doctor Zhivago", "id": 0},
+    {"rank": 6, "movie": "The Age of Innocence", "id": 0},
+    {"rank": 7, "movie": "Atonement", "id": 0},
+    {"rank": 8, "movie": "The English Patient", "id": 0},
+    {"rank": 9, "movie": "Barry Lyndon", "id": 0},
+    {"rank": 10, "movie": "Dangerous Liaisons", "id": 0}
+  ]
+},
+{
+  "query": "samurai revenge",
+  "rankings": [
+    {"rank": 1, "movie": "Seven Samurai", "id": 31},
+    {"rank": 2, "movie": "Harakiri", "id": 30},
+    {"rank": 3, "movie": "Yojimbo", "id": 0},
+    {"rank": 4, "movie": "13 Assassins", "id": 0},
+    {"rank": 5, "movie": "Ran", "id": 0},
+    {"rank": 6, "movie": "Sword of Doom", "id": 0},
+    {"rank": 7, "movie": "The Last Samurai", "id": 0},
+    {"rank": 8, "movie": "Lady Snowblood", "id": 0},
+    {"rank": 9, "movie": "Zatōichi", "id": 0},
+    {"rank": 10, "movie": "Lone Wolf and Cub", "id": 0}
+  ]
+},
+{
+  "query": "brotherhood drama",
+  "rankings": [
+    {"rank": 1, "movie": "The Godfather", "id": 1},
+    {"rank": 2, "movie": "The Godfather: Part II", "id": 3},
+    {"rank": 3, "movie": "Goodfellas", "id": 15},
+    {"rank": 4, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 5, "movie": "The Departed", "id": 37},
+    {"rank": 6, "movie": "Blood In Blood Out", "id": 0},
+    {"rank": 7, "movie": "Warrior", "id": 0},
+    {"rank": 8, "movie": "The Fighter", "id": 0},
+    {"rank": 9, "movie": "American History X", "id": 40},
+    {"rank": 10, "movie": "Legends of the Fall", "id": 0}
+  ]
+},
+{
+  "query": "pandemic survival",
+  "rankings": [
+    {"rank": 1, "movie": "12 Monkeys", "id": 0},
+    {"rank": 2, "movie": "Contagion", "id": 0},
+    {"rank": 3, "movie": "28 Days Later", "id": 0},
+    {"rank": 4, "movie": "World War Z", "id": 0},
+    {"rank": 5, "movie": "Children of Men", "id": 0},
+    {"rank": 6, "movie": "The Andromeda Strain", "id": 0},
+    {"rank": 7, "movie": "Outbreak", "id": 0},
+    {"rank": 8, "movie": "I Am Legend", "id": 0},
+    {"rank": 9, "movie": "The Last Man on Earth", "id": 0},
+    {"rank": 10, "movie": "Perfect Sense", "id": 0}
+  ]
+},
+{
+  "query": "desert warfare",
+  "rankings": [
+    {"rank": 1, "movie": "Lawrence of Arabia", "id": 0},
+    {"rank": 2, "movie": "The English Patient", "id": 0},
+    {"rank": 3, "movie": "Black Hawk Down", "id": 0},
+    {"rank": 4, "movie": "Jarhead", "id": 0},
+    {"rank": 5, "movie": "Three Kings", "id": 0},
+    {"rank": 6, "movie": "The Beast of War", "id": 0},
+    {"rank": 7, "movie": "Flight of the Phoenix", "id": 0},
+    {"rank": 8, "movie": "Sahara", "id": 0},
+    {"rank": 9, "movie": "Theeb", "id": 0},
+    {"rank": 10, "movie": "The Way Back", "id": 0}
+  ]
+},
+{
+  "query": "fantasy quest",
+  "rankings": [
+    {"rank": 1, "movie": "The Lord of the Rings: The Fellowship of the Ring", "id": 10},
+    {"rank": 2, "movie": "The Lord of the Rings: The Two Towers", "id": 13},
+    {"rank": 3, "movie": "The Lord of the Rings: The Return of the King", "id": 5},
+    {"rank": 4, "movie": "Spirited Away", "id": 23},
+    {"rank": 5, "movie": "Princess Mononoke", "id": 70},
+    {"rank": 6, "movie": "Pan's Labyrinth", "id": 0},
+    {"rank": 7, "movie": "The Princess Bride", "id": 0},
+    {"rank": 8, "movie": "The NeverEnding Story", "id": 0},
+    {"rank": 9, "movie": "Coraline", "id": 0},
+    {"rank": 10, "movie": "Stardust", "id": 0}
+  ]
+},
+{
+  "query": "terrorist thriller",
+  "rankings": [
+    {"rank": 1, "movie": "The Dark Knight", "id": 2},
+    {"rank": 2, "movie": "V for Vendetta", "id": 0},
+    {"rank": 3, "movie": "Munich", "id": 0},
+    {"rank": 4, "movie": "Zero Dark Thirty", "id": 0},
+    {"rank": 5, "movie": "Body of Lies", "id": 0},
+    {"rank": 6, "movie": "The Kingdom", "id": 0},
+    {"rank": 7, "movie": "Syriana", "id": 0},
+    {"rank": 8, "movie": "United 93", "id": 0},
+    {"rank": 9, "movie": "The Siege", "id": 0},
+    {"rank": 10, "movie": "Arlington Road", "id": 0}
+  ]
+},
+{
+  "query": "futuristic action",
+  "rankings": [
+    {"rank": 1, "movie": "The Matrix", "id": 14},
+    {"rank": 2, "movie": "Inception", "id": 8},
+    {"rank": 3, "movie": "Terminator 2: Judgment Day", "id": 44},
+    {"rank": 4, "movie": "Blade Runner", "id": 0},
+    {"rank": 5, "movie": "Interstellar", "id": 21},
+    {"rank": 6, "movie": "WALL·E", "id": 66},
+    {"rank": 7, "movie": "Edge of Tomorrow", "id": 0},
+    {"rank": 8, "movie": "District 9", "id": 0},
+    {"rank": 9, "movie": "Looper", "id": 0},
+    {"rank": 10, "movie": "Minority Report", "id": 0}
+  ]
+},
+{
+  "query": "political satire",
+  "rankings": [
+    {"rank": 1, "movie": "Dr. Strangelove", "id": 78},
+    {"rank": 2, "movie": "The Great Dictator", "id": 83},
+    {"rank": 3, "movie": "Modern Times", "id": 51},
+    {"rank": 4, "movie": "V for Vendetta", "id": 0},
+    {"rank": 5, "movie": "Network", "id": 0},
+    {"rank": 6, "movie": "Wag the Dog", "id": 0},
+    {"rank": 7, "movie": "The Death of Stalin", "id": 0},
+    {"rank": 8, "movie": "In the Loop", "id": 0},
+    {"rank": 9, "movie": "Thank You for Smoking", "id": 0},
+    {"rank": 10, "movie": "Bulworth", "id": 0}
+  ]
+},
+{
+  "query": "boxing redemption",
+  "rankings": [
+    {"rank": 1, "movie": "Raging Bull", "id": 0},
+    {"rank": 2, "movie": "Rocky", "id": 0},
+    {"rank": 3, "movie": "Million Dollar Baby", "id": 0},
+    {"rank": 4, "movie": "The Fighter", "id": 0},
+    {"rank": 5, "movie": "Cinderella Man", "id": 0},
+    {"rank": 6, "movie": "Southpaw", "id": 0},
+    {"rank": 7, "movie": "The Hurricane", "id": 0},
+    {"rank": 8, "movie": "Creed", "id": 0},
+    {"rank": 9, "movie": "Ali", "id": 0},
+    {"rank": 10, "movie": "The Boxer", "id": 0}
+  ]
+},
+{
+  "query": "kung fu revenge",
+  "rankings": [
+    {"rank": 1, "movie": "Kill Bill", "id": 0},
+    {"rank": 2, "movie": "Enter the Dragon", "id": 0},
+    {"rank": 3, "movie": "The Matrix", "id": 14},
+    {"rank": 4, "movie": "Ip Man", "id": 0},
+    {"rank": 5, "movie": "Fist of Fury", "id": 0},
+    {"rank": 6, "movie": "The Way of the Dragon", "id": 0},
+    {"rank": 7, "movie": "The 36th Chamber of Shaolin", "id": 0},
+    {"rank": 8, "movie": "Five Deadly Venoms", "id": 0},
+    {"rank": 9, "movie": "Once Upon a Time in China", "id": 0},
+    {"rank": 10, "movie": "Hero", "id": 0}
+  ]
+},
+{
+  "query": "ghost horror",
+  "rankings": [
+    {"rank": 1, "movie": "The Shining", "id": 73},
+    {"rank": 2, "movie": "The Sixth Sense", "id": 0},
+    {"rank": 3, "movie": "The Others", "id": 0},
+    {"rank": 4, "movie": "Poltergeist", "id": 0},
+    {"rank": 5, "movie": "The Ring", "id": 0},
+    {"rank": 6, "movie": "The Conjuring", "id": 0},
+    {"rank": 7, "movie": "Insidious", "id": 0},
+    {"rank": 8, "movie": "The Woman in Black", "id": 0},
+    {"rank": 9, "movie": "Crimson Peak", "id": 0},
+    {"rank": 10, "movie": "The Devil's Backbone", "id": 0}
+  ]
+},
+{
+  "query": "cult classic",
+  "rankings": [
+    {"rank": 1, "movie": "Fight Club", "id": 9},
+    {"rank": 2, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 3, "movie": "The Matrix", "id": 14},
+    {"rank": 4, "movie": "Memento", "id": 69},
+    {"rank": 5, "movie": "Donnie Darko", "id": 0},
+    {"rank": 6, "movie": "The Big Lebowski", "id": 0},
+    {"rank": 7, "movie": "A Clockwork Orange", "id": 0},
+    {"rank": 8, "movie": "Brazil", "id": 0},
+    {"rank": 9, "movie": "The Rocky Horror Picture Show", "id": 0},
+    {"rank": 10, "movie": "Army of Darkness", "id": 0}
+  ]
+},
+{
+  "query": "submarine warfare",
+  "rankings": [
+    {"rank": 1, "movie": "Das Boot", "id": 0},
+    {"rank": 2, "movie": "The Hunt for Red October", "id": 0},
+    {"rank": 3, "movie": "Crimson Tide", "id": 0},
+    {"rank": 4, "movie": "U-571", "id": 0},
+    {"rank": 5, "movie": "K-19: The Widowmaker", "id": 0},
+    {"rank": 6, "movie": "Run Silent, Run Deep", "id": 0},
+    {"rank": 7, "movie": "The Enemy Below", "id": 0},
+    {"rank": 8, "movie": "Torpedo Run", "id": 0},
+    {"rank": 9, "movie": "Gray Lady Down", "id": 0},
+    {"rank": 10, "movie": "The Command", "id": 0}
+  ]
+},
+{
+  "query": "drug cartel",
+  "rankings": [
+    {"rank": 1, "movie": "Ciudad de Deus", "id": 22},
+    {"rank": 2, "movie": "Traffic", "id": 0},
+    {"rank": 3, "movie": "Sicario", "id": 0},
+    {"rank": 4, "movie": "American Gangster", "id": 0},
+    {"rank": 5, "movie": "Blow", "id": 0},
+    {"rank": 6, "movie": "Elite Squad", "id": 0},
+    {"rank": 7, "movie": "The Counselor", "id": 0},
+    {"rank": 8, "movie": "Miami Vice", "id": 0},
+    {"rank": 9, "movie": "Clear and Present Danger", "id": 0},
+    {"rank": 10, "movie": "Savages", "id": 0}
+  ]
+},
+{
+  "query": "vampire horror",
+  "rankings": [
+    {"rank": 1, "movie": "Nosferatu", "id": 0},
+    {"rank": 2, "movie": "Interview with the Vampire", "id": 0},
+    {"rank": 3, "movie": "Bram Stoker's Dracula", "id": 0},
+    {"rank": 4, "movie": "Let the Right One In", "id": 0},
+    {"rank": 5, "movie": "Only Lovers Left Alive", "id": 0},
+    {"rank": 6, "movie": "From Dusk Till Dawn", "id": 0},
+    {"rank": 7, "movie": "Near Dark", "id": 0},
+    {"rank": 8, "movie": "The Lost Boys", "id": 0},
+    {"rank": 9, "movie": "Shadow of the Vampire", "id": 0},
+    {"rank": 10, "movie": "Thirst", "id": 0}
+  ]
+},
+{
+  "query": "magical realism",
+  "rankings": [
+    {"rank": 1, "movie": "Amélie", "id": 95},
+    {"rank": 2, "movie": "Life Is Beautiful", "id": 26},
+    {"rank": 3, "movie": "Eternal Sunshine of the Spotless Mind", "id": 94},
+    {"rank": 4, "movie": "Pan's Labyrinth", "id": 0},
+    {"rank": 5, "movie": "Big Fish", "id": 0},
+    {"rank": 6, "movie": "Midnight in Paris", "id": 0},
+    {"rank": 7, "movie": "The Green Mile", "id": 25},
+    {"rank": 8, "movie": "The Fall", "id": 0},
+    {"rank": 9, "movie": "Beasts of the Southern Wild", "id": 0},
+    {"rank": 10, "movie": "Like Water for Chocolate", "id": 0}
+  ]
+},
+{
+  "query": "prison redemption",
+  "rankings": [
+    {"rank": 1, "movie": "The Shawshank Redemption", "id": 0},
+    {"rank": 2, "movie": "The Green Mile", "id": 25},
+    {"rank": 3, "movie": "A Prophet", "id": 0},
+    {"rank": 4, "movie": "Cool Hand Luke", "id": 0},
+    {"rank": 5, "movie": "The Great Escape", "id": 0},
+    {"rank": 6, "movie": "Papillon", "id": 0},
+    {"rank": 7, "movie": "Escape from Alcatraz", "id": 0},
+    {"rank": 8, "movie": "American History X", "id": 40},
+    {"rank": 9, "movie": "Brubaker", "id": 0},
+    {"rank": 10, "movie": "Miracle in cell NO.7", "id": 91}
+  ]
+},
+{
+  "query": "spy action",
+  "rankings": [
+    {"rank": 1, "movie": "Inception", "id": 8},
+    {"rank": 2, "movie": "The Lives of Others", "id": 67},
+    {"rank": 3, "movie": "North by Northwest", "id": 0},
+    {"rank": 4, "movie": "Bridge of Spies", "id": 0},
+    {"rank": 5, "movie": "The Bourne Identity", "id": 0},
+    {"rank": 6, "movie": "Mission: Impossible", "id": 0},
+    {"rank": 7, "movie": "From Russia with Love", "id": 0},
+    {"rank": 8, "movie": "The Spy Who Came in from the Cold", "id": 0},
+    {"rank": 9, "movie": "Three Days of the Condor", "id": 0},
+    {"rank": 10, "movie": "Tinker Tailor Soldier Spy", "id": 0}
+  ]
+},
+{
+  "query": "fairy tale fantasy",
+  "rankings": [
+    {"rank": 1, "movie": "Spirited Away", "id": 23},
+    {"rank": 2, "movie": "Pan's Labyrinth", "id": 0},
+    {"rank": 3, "movie": "The Princess Bride", "id": 0},
+    {"rank": 4, "movie": "Beauty and the Beast", "id": 0},
+    {"rank": 5, "movie": "Stardust", "id": 0},
+    {"rank": 6, "movie": "The NeverEnding Story", "id": 0},
+    {"rank": 7, "movie": "Shrek", "id": 0},
+    {"rank": 8, "movie": "Coraline", "id": 0},
+    {"rank": 9, "movie": "Big Fish", "id": 0},
+    {"rank": 10, "movie": "Snow White and the Seven Dwarfs", "id": 0}
+  ]
+},
+{
+  "query": "ancient mythology",
+  "rankings": [
+    {"rank": 1, "movie": "Gladiator", "id": 39},
+    {"rank": 2, "movie": "Princess Mononoke", "id": 70},
+    {"rank": 3, "movie": "Troy", "id": 0},
+    {"rank": 4, "movie": "Clash of the Titans", "id": 0},
+    {"rank": 5, "movie": "300", "id": 0},
+    {"rank": 6, "movie": "Immortals", "id": 0},
+    {"rank": 7, "movie": "Jason and the Argonauts", "id": 0},
+    {"rank": 8, "movie": "The 7th Voyage of Sinbad", "id": 0},
+    {"rank": 9, "movie": "The Fall", "id": 0},
+    {"rank": 10, "movie": "O Brother, Where Art Thou?", "id": 0}
+  ]
+},
+{
+  "query": "urban crime",
+  "rankings": [
+    {"rank": 1, "movie": "Goodfellas", "id": 15},
+    {"rank": 2, "movie": "Pulp Fiction", "id": 6},
+    {"rank": 3, "movie": "The Departed", "id": 37},
+    {"rank": 4, "movie": "Ciudad de Deus", "id": 22},
+    {"rank": 5, "movie": "Once Upon a Time in America", "id": 71},
+    {"rank": 6, "movie": "American History X", "id": 40},
+    {"rank": 7, "movie": "Snatch", "id": 96},
+    {"rank": 8, "movie": "L.A. Confidential", "id": 0},
+    {"rank": 9, "movie": "Training Day", "id": 0},
+    {"rank": 10, "movie": "Mean Streets", "id": 0}
+  ]
+},
+{
+  "query": "racing action",
+  "rankings": [
+    {"rank": 1, "movie": "Mad Max: Fury Road", "id": 0},
+    {"rank": 2, "movie": "Rush", "id": 0},
+    {"rank": 3, "movie": "Ford v Ferrari", "id": 0},
+    {"rank": 4, "movie": "Death Race", "id": 0},
+    {"rank": 5, "movie": "The Fast and the Furious", "id": 0},
+    {"rank": 6, "movie": "Gone in 60 Seconds", "id": 0},
+    {"rank": 7, "movie": "Speed Racer", "id": 0},
+    {"rank": 8, "movie": "Days of Thunder", "id": 0},
+    {"rank": 9, "movie": "Talladega Nights", "id": 0},
+    {"rank": 10, "movie": "Le Mans", "id": 0}
+  ]
+},
+{
+  "query": "casino heist",
+  "rankings": [
+    {"rank": 1, "movie": "Ocean's Eleven", "id": 0},
+    {"rank": 2, "movie": "Casino", "id": 0},
+    {"rank": 3, "movie": "The Sting", "id": 0},
+    {"rank": 4, "movie": "Now You See Me", "id": 0},
+    {"rank": 5, "movie": "Hard Eight", "id": 0},
+    {"rank": 6, "movie": "21", "id": 0},
+    {"rank": 7, "movie": "The Good Thief", "id": 0},
+    {"rank": 8, "movie": "Bob le Flambeur", "id": 0},
+    {"rank": 9, "movie": "Croupier", "id": 0},
+    {"rank": 10, "movie": "The Cincinnati Kid", "id": 0}
+  ]
+}]
